@@ -16,7 +16,7 @@ end
 # Use to upload files in Rails
 gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
-
+gem 'devise'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
